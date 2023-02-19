@@ -1,0 +1,7 @@
+<svg width="300" height="300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="magnifier" viewbox="0 0 500 500" >
+    <circle class="circle" cx="200" cy="200" r="140" stroke-width="30" stroke="black" fill="white"></circle>
+        <polyline points="400,400 300,300" stroke="black" fill="none" stroke-width="30px" stroke-linecap="round" />  
+</symbol>
+</svg>
+
